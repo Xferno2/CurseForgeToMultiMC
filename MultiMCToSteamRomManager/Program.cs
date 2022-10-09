@@ -52,6 +52,7 @@ namespace MultiMCToSteamRomManager
             mmcLocation = Console.ReadLine();
             if (!Directory.Exists(mmcLocation))
             {
+
                 Logger("Invalid file pathing. Try again");
                 writer.Close();
                 ostrm.Close();
