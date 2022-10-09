@@ -1,0 +1,37 @@
+[Forge]
+https://mrcrayfish.com/download_file?id=6433527842192d52fac30ffa74f9b8be138d718d 1.19.2
+https://mrcrayfish.com/download_file?id=28bf5cb6395df70798493a91828c1e704c87a6dd 1.19.1
+https://mrcrayfish.com/download_file?id=9204f1453d40cb778f8b75acb4689a5a5cfe2584 1.19
+https://mrcrayfish.com/download_file?id=a5504cdc2830159220f5b0d29b6229ace1b2c326 1.18.2
+https://mrcrayfish.com/download_file?id=59588c637f9ca54fbc1c8290ead52a0219b504c9 1.18.1
+https://mrcrayfish.com/download_file?id=a7fa3da42de9078cfce10ff25f178b627048dedf 1.18
+https://mrcrayfish.com/download_file?id=52468523c01d478bde6ce036168cda044b05c834 1.17.1
+https://mrcrayfish.com/download_file?id=0fe0e4a9bf8f33300e9ffbd745d1b78351665a97 1.16.5
+https://mrcrayfish.com/download_file?id=ebca2e0754b4f04e22a1c6c4b5fd9a907e8dfe19 1.16.3
+https://mrcrayfish.com/download_file?id=1dd6e6c9b2dfd7a7b1de02f4c8772e4c0d6d3dbb 1.16.1
+https://mrcrayfish.com/download_file?id=15233280fa8510db1db1201e11eb46984fdcc7ab 1.15.2
+https://mrcrayfish.com/download_file?id=e4b483c6698e1c3e03363d3b3e673b5513c966eb 1.15
+https://mrcrayfish.com/download_file?id=68ed5e9c67dcff41d7eae9bf467a2d60bddb0099 1.14.4
+https://mrcrayfish.com/download_file?id=9e1adc81aa027ddd6cdff249f320d01fddc53fea 1.12.2
+https://www.dropbox.com/s/pjyd9anzjgem7b9/JoypadMod-1.12-14.21.0.2387.jar?dl=1 1.12
+https://www.dropbox.com/s/2duiwwqypzy47bi/JoypadMod-1.11-13.19.1.2195.jar?dl=1 1.11
+https://www.dropbox.com/s/w2rlph5z4e0gl9x/JoypadMod-1.9.4-1.10.2.jar?dl=0 1.9.4
+https://www.dropbox.com/s/tr9fg2q7yurzoe9/JoypadMod-1.8.9-11.15.1.1722.jar?dl=1 1.8.9
+https://www.dropbox.com/s/l1tvmqyjg337h95/JoypadMod-1.7.10-10.13.4.1614-1.7.10.jar?dl=1 1.7.10
+https://www.dropbox.com/s/6oa1ipedx5kkvea/JoypadMod-1.7.2-10.12.2.1121.jar?dl=1 1.7.2
+https://www.dropbox.com/s/pn02fmfmb6fgitb/JoypadMod-1.6.4-0.1.zip?dl=1 1.6.4
+
+[Fabric]
+https://www.curseforge.com/minecraft/mc-mods/lambdacontrols/download/3362125/file 1.18
+https://www.curseforge.com/minecraft/mc-mods/lambdacontrols/download/3362125/file 1.17
+https://www.curseforge.com/minecraft/mc-mods/lambdacontrols/download/3243672/file 1.16
+https://www.curseforge.com/minecraft/mc-mods/lambdacontrols/download/2990446/file 1.15
+
+[Quilt]
+https://www.curseforge.com/minecraft/mc-mods/lambdacontrols/download/3362125/file 1.18
+https://www.curseforge.com/minecraft/mc-mods/lambdacontrols/download/3362125/file 1.17
+https://www.curseforge.com/minecraft/mc-mods/lambdacontrols/download/3243672/file 1.16
+https://www.curseforge.com/minecraft/mc-mods/lambdacontrols/download/2990446/file 1.15
+
+
+
