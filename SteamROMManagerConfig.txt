@@ -1,0 +1,95 @@
+```
+# Parser type
+····Selected: Glob-regex
+# Configuration title
+····Minecraft
+# Steam category
+····${MultiMC}
+# Steam directory
+····${steamdirglobal}
+# User accounts
+····${yourUserAccount}
+····[x]: Skip found accounts with missing data directories
+····[x]: Use account credentials
+# ROMs directory
+····[MULTIMC LOCATION HERE]\instances
+# Executable
+····[MULTIMC LOCATION HERE]\MultiMC.exe
+····[ ]: Follow .lnk or .desktop to destination (Windows and Linux only)
+····[x]: Append arguments to executable
+# Command line arguments
+····-l "${title}"
+# Executable modifier
+····"${exePath}"
+# "Start In" directory
+····
+# User's glob
+····null
+# User's glob-regex
+····${/^[^_].+$/}/
+# Manifests Directory
+····null
+# Amazon Games Path Override
+····null
+····[ ]: Launch games via Amazon Games
+# Manifests Directory Override
+····null
+····[ ]: Launch games via Epic for online services
+# Galaxy Path Override
+····null
+····[ ]: Launch games via GOG Galaxy
+# itch.io AppData Path Override
+····null
+# Uplay Directory Override
+····null
+····[ ]: Launch games via UPlay for online services
+# Title from custom variable
+····
+····[ ]: Case-insensitive variables
+····[ ]: Skip file if variable was not found
+····[ ]: Enable Title from Custom Variable
+# Title modifier
+····${title}
+# Fuzzy matching
+····[x]: Replace diacritic characters
+····[x]: Aggressive matching
+····[x]: Remove (...) and [...] brackets
+# Image providers
+····Selected: SteamGridDB
+····[ ]: Allow NSFW artwork
+····[ ]: Allow joke artwork
+# Allowed grid styles
+····Selected: 
+# Allowed hero styles
+····Selected: 
+# Allowed logo styles
+····Selected: 
+# Allowed icon styles
+····Selected: 
+# Allowed animation types
+····Selected: static
+# Online image query
+····
+# Image pool
+····${fuzzyTitle}
+# Default image
+····
+# Default tall image
+····
+# Default hero image
+····
+# Default logo image
+····
+# Default icon
+····
+# Local images
+····[MULTIMC LOCATION HERE]/steamicons/${title}.*
+# Local tall images
+····[MULTIMC LOCATION HERE]/steamicons/${title}_grid.*
+# Local hero images
+····[MULTIMC LOCATION HERE]/steamicons/${title}_hero.*
+# Local logo images
+···.[MULTIMC LOCATION HERE]/steamicons/${title}_logo.*
+# Local icons
+····[MULTIMC LOCATION HERE]/steamicons/${title}_icon.*
+```
