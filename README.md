@@ -1,5 +1,5 @@
 # CurseForgeToMultiMC
-A tool to convert CurseForge instances to MultiMC instances and make them easy to use with Steam ROM Manager
+A tool to convert CurseForge instances to MultiMC instances.
 
 ### MultiMCToSteamRomManager
 This separate project just copies the MultiMC instance icon to a separate folder and make it ready to be used by Steam ROM Manager at least for now. I plan to make a way to automatically add a Controller support for instances that have a modloader, in case you use Steam Big Picture as I do. Please use this [config](https://github.com/Xferno2/CurseForgeToMultiMC/blob/master/SteamROMManagerConfig.txt) inside Steam ROM Manager to get the instances imported. Just reaplce ${yourUserAccount} with your Steam username and every [MULTIMC LOCATION HERE] with your MultiMC install path.
